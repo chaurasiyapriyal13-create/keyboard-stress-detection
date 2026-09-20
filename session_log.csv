@@ -1,0 +1,5 @@
+user_id,user_id_pseudonymized,session_id,timestamp,avg_typing_speed_ms,backspace_rate,baseline_deviation,strain_probability,strain_score,predicted_state
+user_003,u_6a8b2b82c77e1f3c,user_003_live_94109,2026-09-20T19:33:09,252.4,0.05,0.45,0.0448,4.5,Calm / Baseline
+user_003,u_6a8b2b82c77e1f3c,user_003_live_798288,2026-09-20T19:33:12,406.4,0.15,1.54,0.999,99.9,Strained
+user_003,u_6a8b2b82c77e1f3c,user_003_live_351462,2026-09-20T19:33:16,252.4,0.05,0.45,0.0448,4.5,Calm / Baseline
+user_007,u_3fdf4a63bd17fde5,user_007_live_17460,2026-09-20T19:33:19,474.5,0.15,1.51,0.999,99.9,Strained
